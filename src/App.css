@@ -1,0 +1,9 @@
+.App{
+  align-items: center;
+}
+
+h1
+ {color:aqua;
+  font-family: 'Courier New', Courier, monospace;
+  size: 50px;
+}
